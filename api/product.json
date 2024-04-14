@@ -16,7 +16,7 @@
     "brand": "TechGadget",
     "price": 499.99,
     "stock": 100,
-    "image": "/iphone.png",
+    "image": "iphone.png",
     "description": "Feature-rich smartphone with a 6.2-inch screen, 12MP dual camera, 128GB storage, and a 4000mAh battery."
   },
   {
