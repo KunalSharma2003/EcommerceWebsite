@@ -7,7 +7,7 @@ export function showToast(operation, name) {
   } else if (operation === "remove") {
     toast.textContent = `The ${name} has been removed from your cart.`;
   } else {
-    toast.textContent = `Hey, you've already added the ${name}with the same quantity to your cart.`;
+    toast.textContent = `Hey, you've already added the ${name} to your cart.`;
   }
 
   document.body.appendChild(toast);
